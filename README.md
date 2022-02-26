@@ -1,4 +1,4 @@
-Realistically this is a pretty pointless script. I put it together as an experiment...
+Realistically this is a pretty pointless script that I put it together to learn more about dump1090.
 
 It connects to a dump1090 install on your network and puts the data it receives from dump1090 into a single SQLite database table so that you can query it.
 
